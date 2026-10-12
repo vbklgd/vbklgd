@@ -14,7 +14,7 @@ Ultralight reusable VTVL launch vehicle. The first stage returns to the launch s
 
 <img src="02_stratospheric.jpg" width="100%" alt="Stratospheric launch rocket">
 
-Rocket launched from a stratospheric platform at 25 km, climbing to 120 km. PVS-10 engine (10 kgf, 60% hydrogen peroxide and propane): many gas generator, ignition, injector and start-up and shutdown variants tested, hot fire at 50% thrust (2024), full-thrust test programme (2026). Ultra-thin aluminium tanks, long-range digital video and telemetry, inertial and satellite navigation, reaction control system, two-stage parachute system, all in-house. Avionics flight-tested on stratospheric balloon flights since 2023.
+Rocket in development, to be launched from a stratospheric platform at 25 km, climb to 120 km and be recovered whole. PVS-10 engine (10 kgf, 60% hydrogen peroxide and propane): many gas generator, ignition, injector and start-up and shutdown variants tested, hot fire at 50% thrust (2024), full-thrust test programme (2026). Ultra-thin aluminium tanks, long-range digital video and telemetry, inertial and satellite navigation, reaction control system, two-stage parachute system, all in-house. The rocket has not flown yet; its avionics have been flight-tested on stratospheric balloons since 2023.
 
 ## Engines
 
