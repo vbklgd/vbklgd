@@ -50,6 +50,14 @@ In-house mission analysis tools: satellite constellation coverage analyzer, laun
 
 Rocket engine test-stand electronics, engine controllers and Svarog avionics, all designed in-house. My current frontier: ARM SoCs (RK3588-class), FPGAs (Gowin series), MCUs (STM32), phased antenna arrays, FMCW radars and advanced communication systems. The main goal is a Pareto-optimal balance of cost and reliability for each specific application.
 
+## Silicon
+
+### AI ternary draft model chip
+
+<img src="09_ternary_chip.jpg" width="100%" alt="Ternary draft model chip layout, SkyWater SKY130">
+
+A ternary (1.58-bit) draft model for speculative decoding of SmolLM2-135M, hardwired into ROM on the open SkyWater SKY130 130 nm process: 508K parameters, 3.15M transistors, 3.60 × 2.74 mm. Taken from training to a fully routed GDS in one day with open-source tools (PyTorch, Yosys, OpenROAD, KLayout); training, integer model and Verilog match bit-for-bit, and the ternary draft reaches 1.66 tokens per target-model pass vs 1.68 for its FP32 counterpart. Layout stage, not yet taped out. A side project I do purely out of my own curiosity.
+
 ## Public projects
 
 ### findrassvet.ru
